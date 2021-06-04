@@ -1,0 +1,39 @@
+/* ESTILO.CSS*/
+
+.jumbotron {
+    background-image: url(../img/Desert.jpg);
+    background-size: 100%;
+    background-position: center;
+}
+
+.jumbotron h1{
+    color: #c3f4f4;
+}
+
+.jumbotron p{
+    color: azure;
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.trans{
+  width: 400px;
+  display: flex;
+  justify-content: center;
+}
+.login{
+    background-color: lawngreen;
+}
+.card-body{
+    background-image: url("../img/prod2.png");
+    background-size: 90%;
+    background-position: center;
+}
+
+.body{
+    background-color: rgb(187, 179, 179);
+}
+
+.form-group{
+    color: rgb(238, 255, 5);
+}

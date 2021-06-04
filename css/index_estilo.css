@@ -1,0 +1,68 @@
+.blog-logo{
+	font-family: sans-serif;
+	font-size: 2.5rem;
+	
+}
+header{
+
+	border-bottom: 2px solid #e7e7e7;
+
+}
+
+#parrafo1{
+	font-size: 2.0rem;
+}
+body{
+	background-image: url(../img/new.gif);
+
+	background-size: cover; 
+	padding: 0;
+
+}
+
+#body{
+	background-image: url(../img/new.gif);
+
+	background-size: cover; 
+	padding: 0;
+
+}
+.login{
+	background-color: lawngreen;
+}
+.nav-scroller{
+	position: absolute;
+	height: 2.5rem;
+	overflow-y:hidden;
+	background-color: black;
+	position: relative;
+}
+#teams{
+	border-bottom: 3px solid #e7e7e7;
+	 position: static;
+}
+
+#final{
+	border-top: 3px solid #e7e7e7;
+	border-bottom: 3px solid #e7e7e7;
+}
+
+#login{
+	position:absolute;
+	background-color: rgba(0,0,0,0.5);
+	width: 100%;
+	height: 400px;
+	margin-top: 15%;
+	margin-right:45%;
+	text-align: center;
+	
+}
+#contenedor{
+	width: 80%;
+	height: 300px;
+	margin-top: 15%;
+	margin-right:45%;
+}
+.principal{
+	position: absolute;
+}
